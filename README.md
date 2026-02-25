@@ -1,4 +1,5 @@
 Projeto e Desenvolvimento de um Manipulador Robótico Antropomórfico de 6 GDL (Parcialmente Atuado) para o Ensino da Cinemática Direta
+
 Descrição
 
 Este repositório reúne os arquivos de apoio ao projeto de um manipulador robótico antropomórfico de seis graus de liberdade (6 GDL), parcialmente atuado e impresso em 3D, desenvolvido com finalidade didática para o ensino de cinemática direta.
@@ -22,6 +23,9 @@ Desenhos de referência em SolidWorks
 - Referências dimensionais para fabricação e montagem do protótipo
 
 Documentação complementar (opcional)
+- Esquemático EasyEDA
+- Interface IHM Nextion
+- Desenho de apoio 2D
   
 Materiais auxiliares, imagens, PDFs e instruções para reprodução parcial do sistema.
 
