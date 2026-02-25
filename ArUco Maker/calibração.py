@@ -7,7 +7,7 @@ import time
 # =================================================================
 
 # 1. SUBSTITUA PELO SEU IP DO MOMENTO (Olhe no app IP Webcam)
-url = "yourTP"  
+url = "yourIP"  
 
 # 2. SUA MEDIDA REAL (em metros)
 TAMANHO_QUADRADO = 0.023  
@@ -125,4 +125,5 @@ if capturas_salvas > 10:
     print("Agora você pode medir distâncias!")
 else:
     print("\nATENÇÃO: Poucas fotos foram tiradas.")
+
     print("O arquivo não foi gerado. Rode novamente e tire pelo menos 10 fotos.")
